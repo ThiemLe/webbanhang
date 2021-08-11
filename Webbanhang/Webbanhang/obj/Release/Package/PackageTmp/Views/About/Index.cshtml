@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE HTML>
+<head>
+    <title> Home Shoppe Website Template | About :: Isource</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="js/move-top.js"></script>
+    <script type="text/javascript" src="js/easing.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="header">
+            <div class="header_bottom">
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="main">
+            <div class="content">
+                <div class="section group">
+                    <div class="col_1_of_3 span_1_of_3">
+                        <h3>Chúng tôi là</h3>
+                        <img src="Asset/client/images/about_img.jpg" alt="">
+                        <p>Trang web bán hàng uy tín nhất mà bạn có thể tìm kiếm mọi mặt hàng mình mong muốn.</p>
+                        <p>chỉ cần tìm kiếm món đồ bạn mong muốn và shopping ngay thôi.</p>
+                    </div>
+                    <div class="col_1_of_3 span_1_of_3">
+                        <h3>Sự thân thiện</h3>
+                        <div class="history-desc">
+                            <div class="year"><p>2021</p></div>
+                            <p class="history">Trang web của chúng tôi có đầy đủ các mặt hàng mà bạn mong muốn.</p>
+                            <p class="history">Với giá cả hợp lý cùng thái độ phục vụ chuyen nghiệp sẽ làm các bạ hài lòng nhất.</p>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                    <div class="col_1_of_3 span_1_of_3">
+                        <h3>Cơ hội</h3>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $().UItoTop({ easingType: 'easeOutQuart' });
+
+        });
+    </script>
+    <a href="#" id="toTop"><span id="toTopHover"> </span></a>
+</body>
+</html>
+

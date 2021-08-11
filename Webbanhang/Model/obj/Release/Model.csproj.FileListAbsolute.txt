@@ -1,0 +1,16 @@
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\Model.dll.config
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\Model.dll
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\Model.pdb
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\EntityFramework.dll
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\EntityFramework.SqlServer.dll
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\PagedList.dll
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\PagedList.Mvc.dll
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\EntityFramework.xml
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\EntityFramework.SqlServer.xml
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\PagedList.xml
+D:\webthu\Webbanhang\Webbanhang\Model\bin\Release\PagedList.Mvc.xml
+D:\webthu\Webbanhang\Webbanhang\Model\obj\Release\Model.csprojAssemblyReference.cache
+D:\webthu\Webbanhang\Webbanhang\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+D:\webthu\Webbanhang\Webbanhang\Model\obj\Release\Model.csproj.CopyComplete
+D:\webthu\Webbanhang\Webbanhang\Model\obj\Release\Model.dll
+D:\webthu\Webbanhang\Webbanhang\Model\obj\Release\Model.pdb
